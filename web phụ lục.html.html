@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title> Các phụ lục của dự án nghiên cứu </title>
+</head>
+<body>
+ <h1>Phiếu 1: Phiếu khảo sát ảnh hưởng của nội dung toxic positivity (tích cực độc hại) trên mạng xã hội đến sức khỏe tâm thần học sinh THPT</h1>
+ <a href="https://docs.google.com/document/d/1Kc8n3k5oTfirDIvhgHrf-dwhG3XCVhbh/edit" target="_blank">
+  <button>Đi tới Phụ lục 1</button>
+</a>
+<h1>Phiếu 2: Khảo sát hiệu quả sau khi áp dụng các giải pháp</h1>
+<a href="https://docs.google.com/document/d/1k42uf4Togn7nznuoUBkOfqrH8MlBNSdu/edit" target="_blank">
+  <button>Đi tới Phụ lục 2</button>
+</a>
+<h1>Kết quả khảo sát phiếu 1</h1>
+<a href="https://docs.google.com/document/d/1dP3PHunjHZ5VlN9K0BMjGfNxILAnzoQl/edit" target="_blank">
+  <button>Đi tới Kết quả của phần khảo sát 1</button>
+</a>
+<h1>Kết quả khảo sát phiếu 2</h1>
+<a href="https://docs.google.com/document/d/1sEDfM2aZf-fvfvpYVX5YLyTxFcgDQPNP/edit" target="_blank">
+  <button>Đi tới Kết quả của phần khảo sát 2</button>
+</a>
+</body>
+</html>
